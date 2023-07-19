@@ -62,7 +62,7 @@ body, h1, h2, h3, p, ul, li {
   }
   
   #hero {
-    background-image: url('.githud/IMG_20230518_153544.jpg');
+    background-image: url('.images/IMG_20230518_153544.jpg');
     background-size: cover;
     background-position: center;
     height: 500px;
